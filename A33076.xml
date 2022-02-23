@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Church of England's glory, or, The Vindication of episcopacy</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33076</idno>
+            <idno type="STC">Wing C4194</idno>
+            <idno type="STC">ESTC R33292</idno>
+            <idno type="EEBO-CITATION">13119503</idno>
+            <idno type="OCLC">ocm 13119503</idno>
+            <idno type="VID">97817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1547:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Church of England's glory, or, The Vindication of episcopacy</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colopon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance --  Poetry.</term>
+               <term>Great Britain --  Politics and government --  1660-1714</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:97817:1"/>
+            <head>The Church of <hi>ENGLAND</hi>'s Glory: OR THE <hi>Vindication of Epiſcopacy.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>With Allowance,</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <date>July 3. 1688.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <lg>
+               <l>NOW call to mind, <hi>Edom,</hi> remember well</l>
+               <l>Your curſed Cries againſt God's <hi>Iſrael.</hi>
+               </l>
+               <l>Now who's Diſloyal, where's the obſtinate</l>
+               <l>And buſie Fops, that tall of Things of State?</l>
+               <l>A Plot, a Plot! Who is't that now looks blue?</l>
+               <l>Now where's Sedition? Where's the Factious Crew?</l>
+               <l>Now mock no more, go conſecrate the Room</l>
+               <l>Where <hi>Eſſex</hi> dy'd, and think on <hi>Ruſſel</hi>'s Doom.</l>
+               <l>Now who are they that cry'd, <hi>Ram us</hi> and <hi>Dam us?</hi>
+               </l>
+               <l>Who is't that now comes off with <hi>Ignoramus?</hi>
+               </l>
+               <l>Now who's ſurmiſing Fears and Jealouſies?</l>
+               <l>Now who's malicious, fomenting of Lies?</l>
+               <l>Now whoſe nice Conſcience pleads Religion,</l>
+               <l>Nay, rather they that once ſwore they had none.</l>
+               <l>Now let's <hi>Huzza, Huzza, Huzza,</hi> examin</l>
+               <l>Now for the Loyalty expreſt by Damming,</l>
+               <l>Roaring and Whoring,—that—Rotting and Sinking:</l>
+               <l>Hey-Boys! New Healths with Bumpers bravely Drinking.</l>
+               <l>But ſay theſe are the Worſt, whoſe Words are Wind;</l>
+               <l>But mark our Doctrines, and the more refin'd.</l>
+               <l>Now where's the Doctrine made the Pulpits ring,</l>
+               <l>'Twas all Divine to Love and Laud the King?</l>
+               <l>Where's Loyal Sermons now? Where are they gone?</l>
+               <l>Heark, heark a while, and you ſhall hear anon.</l>
+               <l>Where's Non-reſiſtance now? Now where's Compliance?</l>
+               <l>Why here, in this, to bid the King Defiance.</l>
+               <l>In what, an Edict? No, His Declaration.</l>
+               <l>For Conſcience Liberty, to free the Nation</l>
+               <l>From thoſe accurſed <hi>Penal Laws</hi> and <hi>Teſt,</hi>
+               </l>
+               <l>That Tender Conſcience ever might have Reſt.</l>
+               <l>But now 'tis <hi>Popery, Popery,</hi> that's the Song;</l>
+               <l>'Tis coming like a Flood: But pray how long</l>
+               <l>Has Fear of Popery been this dreadful Tone?</l>
+               <l>Juſt ſince you let the Proteſtants alone.</l>
+               <l>'Tis Fear of Papiſts,—Good lack!—Sad's the Caſe</l>
+               <l>Since they've excell'd Epiſcopals in Grace.</l>
+               <l>No ſooner Clemency doth Peace propoſe,</l>
+               <l>But Envy cries, Take heed of Popiſh Foes.</l>
+               <pb facs="tcp:97817:2" rendition="simple:additions"/>
+               <l>Was't not for fear of Popery once ago,</l>
+               <l>You writ and printed, preach'd and raged ſo?</l>
+               <l>Down with Diſſenters, thus with Storm and Thunder;</l>
+               <l>Magiſtrates, mind your Duty, ſeiſe and plunder.</l>
+               <l>Fine and impriſon, ruin, follow't hot:</l>
+               <l>This was for fear of Popery, was it not?</l>
+               <l>Thus Perſecution echo'd from the Pulpit;</l>
+               <l>But now look ſimply, ſay you cannot help it.</l>
+               <l>Law was not then ſo much, as it is ſince,</l>
+               <l>But the King's Pleaſure, as you made Pretence:</l>
+               <l>Yet though you've loſt the Spur, you'd hold the Bridle,</l>
+               <l>With a ſtreight Rein too: O! but that's as idle</l>
+               <l>As thoſe that blame this Liberty of Conſcience,</l>
+               <l>And have the Impudence to ſay 'tis Nonſence.</l>
+               <l>Were they (which God forbid) but half ſo long</l>
+               <l>To feel the Right, that did Diſſenters wrong,</l>
+               <l>They'd wiſer be, kinder, and humbler too,</l>
+               <l>Who're now ſo proud, they know not what they do.</l>
+               <l>Now who are they that cannot be content</l>
+               <l>With Regal Right, but Acts of Parliament</l>
+               <l>Of their own chuſing? Yet this will not do;</l>
+               <l>But muſt have alſo Convocation too.</l>
+               <l>Now who like Toads ſpit Venom, ſwell, and pant?</l>
+               <l>Now who are they that have the way to Cant?</l>
+               <l>Now who's moſt buſic to degrade the King?</l>
+               <l>And who knows what? With ſecret Whiſpering,</l>
+               <l>And holding Conſults, who makes Parties now?</l>
+               <l>For to rebell the Malecontent knows how.</l>
+               <l>Fat Benefits, and Tythes, and Biſhopricks</l>
+               <l>Do not content you; O, theſe little Tricks!</l>
+               <l>For <hi>Mordecai</hi> ſtoops not: Here's the Diſpute;</l>
+               <l>You want the Power ſtill to Perſecute.</l>
+               <l>Whence comes this Rule, to Lord it o're the reſt?</l>
+               <l>From Tory-Goſpel, Penal-Laws, and Teſt:</l>
+               <l>Touch 'em in that, and they'll begin to wince,</l>
+               <l>And galled Loyalty ſpurns at their Prince.</l>
+               <l>But poor Diſſenters, now, as heretofore,</l>
+               <l>Thankful for Peace, rejoice, and ſeek no more.</l>
+               <l>But now, 'tis well, your curſed Power's ſubdu'd;</l>
+               <l>Here's Peace, which others like: But let's conclude:</l>
+               <l>Here's your own Language, and the Work of late</l>
+               <l>You glory'd in, and ſtill wou'd vindicate.</l>
+               <l>Look in this Glaſs, and learn to bluſh for ſhame;</l>
+               <l>Be Chriſtians once, and ſtain no more that Name.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. W.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
